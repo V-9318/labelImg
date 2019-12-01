@@ -5,10 +5,10 @@
 首先打开👉[fffff](https://www.scut-robotlab.cn/nextcloud/index.php/s/qsezS7W5yNMatML)，  
 ![下载页面](https://github.com/V-9318/labelImg/raw/master/1.png)  
 打开之后是这样：  
-![👊](https://github.com/V-9318/labelImg/raw/master/2.png)
+![👊](https://github.com/V-9318/labelImg/raw/master/2.png)  
 下载后选择④⑨-⑦⑧之内的数字，④⑨-⑦⑧指的是比赛场次，可以去[RM官网](https://www.robomaster.com/zh-CN/resource/video)，进入文件夹选择1个part。  
 这是打开了62号🎦
-![👊](https://github.com/V-9318/labelImg/raw/master/4.png)
+![👊](https://github.com/V-9318/labelImg/raw/master/4.png)  
 每个👨＆👩完成1个part即可，而后在confluence创建好的数据集采集页面标识:👴选择了哪个part避免重复，例如：
 >张三 part1  
 
